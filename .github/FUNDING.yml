@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # c6f2d0bf9221359541ca1ca039ca4831f32a0299 username
 otechie: # Replace with a single Otechie username
-custom: 2e7f1b8d16f0ec516f2a4eaef72abe83a52bf4ad # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'https://github.com/iSystem32/nano-ndk/commit/9461fa5444c711f28a13c037a161d83d2dd6637d']
+custom: 2e7f1b8d16f0ec516f2a4eaef72abe83a52bf4ad # Replace with up to 4 custom sponsorship URLs e.g., ['https://github.com/iSystem32/nano-ndk/commit/32c61d9aea8c0dd660fecff21da9bac4c1e2293c', 'https://github.com/iSystem32/nano-ndk/commit /9461fa5444c711f28a13c037a161d83d2dd6637d']
